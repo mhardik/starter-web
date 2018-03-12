@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a sample website on how to use
-Git.
+Git. Adding a line for rebasing example
 ## Introduction
 This is introduction text
 ## Purpose
