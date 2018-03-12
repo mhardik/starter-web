@@ -9,6 +9,6 @@ As stated above, main purose is to demonstrate Git usage
 This is deploymnet text
 
 ## How To Contribute
-
+Please fork this repository and then issue pull request for review.
 ### Copyright
 2018 Git Training
