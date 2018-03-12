@@ -3,6 +3,7 @@
 
 # TEAM
 
+	Jason Taylor	-- Software Developer	--	@jasontaylor27
     <name> -- <role> -- <twitter>
 
 # THANKS
