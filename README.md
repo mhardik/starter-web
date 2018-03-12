@@ -9,3 +9,6 @@ As stated above, main purose is to demonstrate Git usage
 This is deploymnet text
 
 ## How To Contribute
+
+### Copyright
+2018 Git Training
