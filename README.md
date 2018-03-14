@@ -11,4 +11,4 @@ This is deploymnet text
 ## How To Contribute
 Please fork this repository and then issue pull request for review.
 ### Copyright
-2018 Git Training
+2018 Git Training. All rights reserved.
