@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a sample website on how to use
-Git. Adding a line for rebasing example, then more changes from myfeature branch too
+Git. Updating for emergency fix after stash
 ## Introduction
 This is introduction text
 ## Purpose
